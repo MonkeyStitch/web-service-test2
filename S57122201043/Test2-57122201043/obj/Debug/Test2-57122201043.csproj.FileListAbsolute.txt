@@ -1,0 +1,10 @@
+C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-57122201043\bin\Debug\Test2-57122201043.dll.config
+C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-57122201043\bin\Debug\Test2-57122201043.dll
+C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-57122201043\bin\Debug\Test2-57122201043.pdb
+C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-57122201043\bin\Debug\EntityFramework.dll
+C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-57122201043\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-57122201043\bin\Debug\EntityFramework.xml
+C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-57122201043\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-57122201043\obj\Debug\Test2-57122201043.csproj.CoreCompileInputs.cache
+C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-57122201043\obj\Debug\Test2-57122201043.dll
+C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-57122201043\obj\Debug\Test2-57122201043.pdb

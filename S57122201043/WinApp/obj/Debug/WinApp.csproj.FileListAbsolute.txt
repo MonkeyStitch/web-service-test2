@@ -1,0 +1,9 @@
+C:\Users\tisstp\source\repos\TEST\S57122201043\WinApp\bin\Debug\WinApp.exe.config
+C:\Users\tisstp\source\repos\TEST\S57122201043\WinApp\bin\Debug\WinApp.exe
+C:\Users\tisstp\source\repos\TEST\S57122201043\WinApp\bin\Debug\WinApp.pdb
+C:\Users\tisstp\source\repos\TEST\S57122201043\WinApp\obj\Debug\WinApp.Form1.resources
+C:\Users\tisstp\source\repos\TEST\S57122201043\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+C:\Users\tisstp\source\repos\TEST\S57122201043\WinApp\obj\Debug\WinApp.csproj.GenerateResource.Cache
+C:\Users\tisstp\source\repos\TEST\S57122201043\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+C:\Users\tisstp\source\repos\TEST\S57122201043\WinApp\obj\Debug\WinApp.exe
+C:\Users\tisstp\source\repos\TEST\S57122201043\WinApp\obj\Debug\WinApp.pdb
