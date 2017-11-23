@@ -51,6 +51,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="implement\DepartmentService.cs" />
+    <Compile Include="implement\TeacherService.cs" />
+    <Compile Include="Interface\IDepartmentService.cs" />
+    <Compile Include="Interface\ITeacherService.cs" />
     <Compile Include="IStudentService.cs" />
     <Compile Include="Model\Department.cs" />
     <Compile Include="Model\Student.cs" />

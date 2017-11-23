@@ -12,3 +12,17 @@ C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-ServiceHost\obj\Debug\Test2
 C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-ServiceHost\obj\Debug\Test2-ServiceHost.exe
 C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-ServiceHost\obj\Debug\Test2-ServiceHost.pdb
 C:\Users\tisstp\source\repos\TEST\S57122201043\Test2-ServiceHost\obj\Debug\Test2-ServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\bin\Debug\Test2-ServiceHost.exe.config
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\bin\Debug\Test2-ServiceHost.exe
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\bin\Debug\Test2-ServiceHost.pdb
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\bin\Debug\Test2-57122201043.dll
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\bin\Debug\Test2-57122201043.pdb
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\bin\Debug\Test2-57122201043.dll.config
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\obj\Debug\Test2-ServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\obj\Debug\Test2-ServiceHost.exe
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\obj\Debug\Test2-ServiceHost.pdb
+C:\Users\tisstp\Projects\webservice\TEST2\S57122201043\Test2-ServiceHost\obj\Debug\Test2-ServiceHost.csprojResolveAssemblyReference.cache
